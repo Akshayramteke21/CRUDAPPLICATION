@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Akshay",
+      "email": "akshay@gmail.com",
+      "age": 23
+    },
+    {
+      "id": "2",
+      "name": "Vickey",
+      "email": "Vickey@gmail.com",
+      "age": 23
+    },
+    {
+      "id": "3",
+      "name": "Vishal",
+      "email": "Vishal@gmail.com",
+      "age": 24
+    },
+    {
+      "id": "d6cb",
+      "name": "Nitesh",
+      "email": "Nitesh@gmail.com",
+      "age": "23"
+    },
+    {
+      "id": "d219",
+      "name": "Vijay",
+      "email": "Vijay@",
+      "age": ""
+    },
+    {
+      "id": "6bdf",
+      "name": "Suresh",
+      "email": "Suresh@gmail.com",
+      "age": "25"
+    }
+  ]
+}
